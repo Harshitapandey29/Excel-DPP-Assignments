@@ -44,7 +44,7 @@
 
   ----
 
-# **✅Key Skills Gained:**
+**✅Key Skills Gained:**
 
 1. Microsoft Excel
 2. Data Cleaning & Data Preparation
