@@ -17,7 +17,7 @@
 - SUM, AVERAGE, MIN, MAX, COUNT
 - Implemented logical conditions using IF and Nested IF
 - Used date & time functions like TODAY() and NOW()
-- Automated calculations for real-world scenarios (marks, salary, deadlines)
+- Automated calculations for real-world scenarios
 - Improved efficiency by replacing manual calculations with formulas
 
 ----
@@ -35,7 +35,7 @@
 
 🔹 **Week 03 – Date Analysis & Conditional Formatting:** *DPP*
 
-- Performed date-based calculations (days left, overdue tasks, tenure)
+- Performed date-based calculations
 - Used TODAY() for dynamic date comparison
 - Implemented conditional formatting to highlight insights visually
 - Created Excel-based alerts for past and future dates
@@ -46,12 +46,12 @@
 
  🔹 **Week 04 – Advanced Excel Analysis & Business Logic:** *DPP 01 – 03*
 
- - Worked on advanced Excel problem statements with real-world business logic
- - Applied multi-condition formulas using nested IF and combined functions
- - Solved scenario-based analytical questions using structured datasets
- - Focused on accuracy, edge-case handling, and result validation
- - Improved spreadsheet efficiency through optimized formulas
-
+ - Worked extensively with Excel lookup and reference functions
+ - Implemented XLOOKUP, VLOOKUP, and HLOOKUP for data retrieval
+ - Connected multiple tables using key-based lookups
+ - Improved data accuracy by reducing manual matching
+ - Applied lookup logic to real-world business datasets
+   
 ----
 
 **✅Key Skills Gained:**
