@@ -44,6 +44,16 @@
 
   ----
 
+ 🔹 Week 04 – Advanced Excel Analysis & Business Logic: DPP 01 – 03
+
+ - Worked on advanced Excel problem statements with real-world business logic
+ - Applied multi-condition formulas using nested IF and combined functions
+ - Solved scenario-based analytical questions using structured datasets
+ - Focused on accuracy, edge-case handling, and result validation
+ - Improved spreadsheet efficiency through optimized formulas
+
+----
+
 **✅Key Skills Gained:**
 
 1. Microsoft Excel
